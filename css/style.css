@@ -1,0 +1,103 @@
+body{
+   padding: 0;
+   margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+i{
+  margin:10px 0 30px;
+}
+
+
+/* intro section */
+#intro-section{
+  font-family: 'Libre Baskerville', serif;
+  text-align: left;
+  background-color: #A2D2FF;
+  padding:3% 15% 7%;
+}
+.container-fluid{
+  padding-left:0;
+  margin-top: 50px;
+}
+.navbar{
+  padding:8px 0;
+}
+.navbar-brand{
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+}
+.nav-item{
+  margin:0 20px;
+}
+.programmer-img{
+  width:100%;
+}
+
+.programmer-side{
+  padding-left:15%;
+}
+
+.name-side{
+  color:#fff;
+  padding-top:4%;
+}
+
+/* skill section */
+#skill-section{
+  padding:2% 15%;
+  background-color: #FFEDDA;
+  text-align: center;
+}
+
+.underline{
+  text-decoration: underline;
+  text-decoration-color: #A2D2FF;
+}
+
+.f-ico:hover{
+  color:#A2D2FF;
+}
+
+/* projects section */
+#projects-section{
+  color:#fff;
+  padding-top: 4%;
+  text-align: center;
+  background-color:#A2D2FF;
+}
+.pro{
+  font-size: 3.5rem;
+  font-family: 'Bebas Neue', cursive;
+  margin-bottom:50px;
+}
+
+.carousel-item{
+  padding:4% 15% 7%;
+}
+.btn{
+  margin-bottom: 30px;
+}
+
+/* contact section */
+#contact-section{
+  padding:7% 15% 3%;
+  text-align: center;
+  background-color: #FFEDDA;
+
+}
+.style-text{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3.5rem;
+  margin-bottom: 50px;
+}
+
+
+/* footer section */
+.footer-section{
+  text-align: center;
+  padding:7% 15%;
+  background-color:#A2D2FF;
+}
+.icons{
+  margin:10px 30px 30px;;
+}
